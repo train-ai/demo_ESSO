@@ -75,20 +75,7 @@ def privacy_metrics(real, fake, data_percent=15):
 
 
 def plot_missing_data_histogram(df):
-    """
-    Plots a bar chart showing the percentage of missing values per column.
-    Only columns with missing data are shown.
-    
-    Args:
-        df (pd.DataFrame): The DataFrame to analyze.
-    """
     missing_percent = df.isnull().mean() * 100
-    missing_percent = missing_percent[missing_percent > 0]
-
-    if missing_percent.empty:
-        print("✅ No missing values in the DataFrame.")
-        return
-
     plt.figure(figsize=(15, 8))
     missing_percent.plot(kind='bar', color='skyblue')
     plt.title('Percentage of Missing Data per Column')
@@ -99,4 +86,5 @@ def plot_missing_data_histogram(df):
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     plt.tight_layout()
     plt.show()
+
 
