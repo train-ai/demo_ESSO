@@ -1,0 +1,1001 @@
+time_transition_to_target,disease_st,Age,Anthracycline_based_chemotherapy,Anti_HER2,Antiestrogens,ER_STATUS,Other_ATC,PGR_STATUS,Platinum_salts,Procedure_mastectomy,Procedure_quadrantectomy,Procedure_radiotherapy,Stage,Taxanes,Toxicity,grade_G_CODE,her2,ki67_STATUS,tnm_N_CODE,tnm_T_CODE
+3864,censored,60-70,yes,no,yes,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+69,censored,50-60,no,no,no,negative,no,negative,no,done,done,no,,no,,,positive,high,,
+4156,censored,60-70,yes,no,no,negative,no,negative,no,done,done,no,stage 2,yes,G3,G3,negative,high,N1,T2
+1400,censored,20-40,no,no,yes,positive,no,positive,no,done,no,no,,no,,G3,positive,high,N2,T2
+1249,death,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G3,negative,high,N0,T1
+146,censored,70-80,no,no,no,negative,no,low,no,no,done,yes,,no,,,negative,high,,
+4202,censored,60-70,no,yes,no,negative,no,negative,no,done,no,yes,,no,,G3,positive,high,N0,T2
+4366,censored,40-50,yes,no,no,,no,positive,no,no,done,yes,,yes,,G3,negative,,,
+1390,censored,20-40,yes,yes,no,negative,yes,negative,yes,no,done,no,,yes,,,positive,high,,
+2489,censored,50-60,yes,no,no,positive,no,positive,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+2416,censored,80-100,yes,yes,no,positive,no,positive,no,done,no,yes,,yes,,G3,positive,high,N3,T3
+2305,censored,60-70,no,yes,no,positive,no,positive,no,done,no,yes,stage 1,yes,,G2,positive,high,N0,T1
+3961,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+3692,censored,70-80,yes,yes,no,positive,no,low,no,no,done,yes,,yes,,,positive,high,,
+76,censored,20-40,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,high,N1,T1
+1626,censored,60-70,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+3491,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+113,recurrence,50-60,no,yes,no,positive,no,low,no,no,done,no,,yes,,,positive,high,,
+3605,censored,70-80,no,no,no,,no,negative,no,done,no,yes,stage 1,no,,G3,negative,high,N0,T1
+2650,censored,70-80,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,G3,positive,high,,
+71,censored,80-100,no,no,no,negative,no,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+153,recurrence,70-80,yes,yes,no,positive,no,negative,no,no,done,no,,yes,,G3,positive,high,,
+2161,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2782,censored,40-50,no,yes,no,positive,no,negative,no,no,done,yes,stage 2,yes,,G2,positive,interm.,N1,T1
+1449,censored,50-60,yes,yes,no,positive,no,positive,no,done,done,no,,no,,G3,positive,high,N0,T1
+113,death,60-70,yes,no,no,positive,no,positive,no,no,done,yes,stage 2,no,G4,G3,positive,high,N1,T1
+34,censored,50-60,no,no,no,,no,positive,no,no,done,no,stage 1,no,,G2,negative,,N1,T1
+789,recurrence,50-60,yes,yes,no,,no,positive,no,done,no,yes,,yes,,G1,positive,low,N0,T0
+93,censored,40-50,no,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G2,negative,high,N0,T1
+2476,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2553,censored,50-60,yes,no,no,,no,negative,no,no,done,no,stage 2,yes,,G3,negative,,N0,T2
+3838,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,yes,G4,G3,negative,high,N0,T1
+251,censored,40-50,yes,yes,no,positive,no,positive,no,no,done,yes,stage 2,yes,,G2,positive,low,N1,T1
+2590,censored,40-50,yes,no,no,,no,,no,done,no,yes,,yes,,G3,negative,,N0,T2
+40,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,,no,,G3,negative,high,N0,T1
+55,censored,60-70,no,no,no,negative,no,negative,no,done,no,no,,no,,G3,negative,high,N0,T1
+2071,censored,60-70,no,yes,no,,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,,N0,T1
+2010,death,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,G4,G3,positive,high,N1,T2
+3002,censored,70-80,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,interm.,,
+171,censored,60-70,yes,no,no,negative,no,negative,no,done,done,no,,no,,G3,negative,interm.,,
+1765,death,40-50,yes,yes,no,,no,,no,no,done,yes,,yes,,,positive,,,
+430,censored,40-50,yes,yes,no,negative,no,negative,no,no,done,no,,yes,,,positive,high,,
+1031,death,50-60,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T2
+1179,metastatic,40-50,yes,yes,no,positive,no,negative,no,done,no,no,stage 2,yes,,G3,positive,low,N0,T2
+2063,censored,50-60,no,yes,no,,no,negative,no,no,done,yes,stage 1,yes,,G3,positive,high,N0,T1
+1939,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+2013,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,,yes,G1,,positive,high,,
+55,censored,40-50,no,no,no,positive,no,negative,no,no,done,yes,stage 1,no,,G3,positive,high,N0,T1
+178,censored,50-60,yes,no,no,positive,no,negative,no,done,no,no,stage 1,no,,G3,positive,high,N0,T1
+1693,death,70-80,yes,no,no,negative,yes,negative,no,no,done,yes,stage 3,no,G2,G3,negative,high,N2,T2
+2106,censored,20-40,yes,yes,no,positive,no,negative,no,done,no,no,,yes,,,positive,interm.,N1,T2
+1888,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+451,censored,70-80,yes,yes,no,,no,,no,done,no,no,,yes,,G3,positive,,N1,T2
+275,censored,60-70,yes,yes,no,positive,no,low,no,no,done,no,,yes,,G3,positive,high,N1,T1
+108,recurrence,40-50,yes,no,no,,no,,no,no,done,yes,,no,,,positive,,,
+48,censored,20-40,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+176,recurrence,20-40,no,no,no,positive,no,positive,no,no,done,no,stage 1,no,,G2,positive,interm.,N0,T1
+2180,censored,50-60,yes,yes,no,,no,negative,no,no,done,yes,,yes,,G2,positive,high,N0,T0
+173,recurrence,40-50,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,,N0,
+1422,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G2,positive,high,N1,T2
+186,recurrence,50-60,yes,yes,no,,no,positive,no,no,done,no,,yes,,G2,positive,,,
+613,metastatic,70-80,no,no,yes,negative,no,negative,no,no,done,no,stage 1,no,,G3,positive,,N0,T1
+2671,censored,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+622,death,80-100,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+2317,censored,50-60,no,yes,no,positive,no,low,no,done,no,no,stage 1,yes,G2,G2,positive,low,N0,T1
+2850,censored,70-80,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+1965,censored,40-50,no,no,no,positive,no,positive,no,done,no,no,stage 1,no,,G2,positive,high,N0,T1
+875,censored,40-50,yes,no,no,negative,yes,negative,no,done,no,no,,no,,,negative,high,,
+2102,censored,80-100,no,no,no,negative,no,negative,no,done,no,yes,stage 2,no,,G3,positive,high,N1,T2
+1333,recurrence,70-80,no,no,no,,no,negative,no,no,done,yes,,no,,,negative,,N0,T0
+398,metastatic,70-80,yes,yes,no,,no,negative,no,no,done,no,,yes,,,positive,high,,
+2413,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,high,N0,T1
+187,censored,60-70,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+487,metastatic,60-70,yes,no,no,,yes,negative,no,no,done,no,,no,,G3,negative,,,
+157,metastatic,60-70,yes,no,no,positive,no,positive,no,done,no,no,,no,,,positive,high,,
+1299,censored,70-80,yes,no,no,negative,no,negative,no,done,done,yes,stage 3,no,,G3,negative,high,N3,T2
+414,censored,50-60,no,no,no,positive,no,positive,no,no,done,yes,stage 2,no,,G3,positive,low,N0,T2
+2490,censored,60-70,yes,yes,no,positive,yes,positive,no,done,no,no,,yes,,,positive,high,N1,T1
+274,censored,50-60,yes,no,no,,yes,,no,done,done,no,,no,,,negative,,,
+350,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,G2,G3,negative,interm.,,
+1926,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+301,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2750,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,positive,high,N1,T2
+3205,censored,70-80,yes,yes,no,positive,no,positive,no,no,done,no,stage 3,yes,,G3,positive,high,N0,T3
+3564,censored,70-80,yes,yes,no,negative,no,negative,no,done,no,no,,yes,,G3,positive,high,N0,T1
+4281,censored,50-60,yes,yes,no,negative,no,negative,no,done,done,yes,,yes,,,positive,high,,
+68,censored,20-40,no,no,no,negative,no,negative,no,done,done,no,stage 1,no,,G3,negative,high,N1,T1
+449,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+750,censored,70-80,yes,no,no,,no,,no,done,no,no,,yes,G1,,negative,,N1,TIS
+375,recurrence,40-50,no,no,no,,no,,no,no,done,no,,no,,,positive,,,
+1902,censored,40-50,yes,no,no,low,no,negative,no,no,done,yes,,no,,,positive,high,,
+1769,censored,60-70,yes,no,no,,no,negative,no,no,done,no,,yes,,,negative,high,N0,T2
+1904,censored,40-50,yes,no,no,positive,yes,positive,no,done,no,yes,stage 2,no,,G3,positive,interm.,N0,T0
+81,censored,40-50,no,no,no,,no,positive,no,no,done,yes,stage 1,no,,G2,positive,,N0,T1
+1215,metastatic,50-60,yes,yes,no,negative,no,negative,no,done,no,no,stage 1,yes,,G3,positive,high,N0,T1
+2495,recurrence,50-60,yes,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,N2,T2
+2315,censored,20-40,no,yes,no,low,no,low,no,no,done,no,,yes,,G3,positive,high,N1,T1
+3406,censored,60-70,yes,no,no,,no,positive,no,no,done,yes,stage 3,no,,G3,negative,,N1,T3
+597,metastatic,60-70,no,yes,no,,yes,positive,no,no,done,yes,stage 1,no,,G2,positive,,N0,T1
+107,recurrence,20-40,yes,no,no,,no,,no,no,done,no,,no,,,negative,,,
+90,censored,20-40,no,no,no,negative,no,negative,no,done,no,no,stage 2,no,,G3,positive,high,N1,T2
+368,censored,20-40,no,yes,no,positive,no,negative,no,no,done,no,,yes,,,positive,high,,
+2388,censored,40-50,yes,yes,no,positive,no,negative,no,no,done,yes,,yes,G3,,positive,high,,
+665,death,50-60,yes,yes,no,,no,,no,done,no,yes,stage 3,yes,,G2,positive,,N2,T2
+2669,censored,50-60,yes,no,no,,no,,no,done,done,no,,yes,,,negative,,,T0
+784,death,70-80,yes,yes,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G3,positive,interm.,N0,T1
+3865,censored,60-70,yes,yes,no,negative,no,negative,no,done,no,yes,,yes,G3,,positive,high,,
+1435,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 1,yes,,G2,positive,interm.,N0,T1
+210,recurrence,20-40,no,yes,no,,no,negative,no,no,done,yes,,no,,G3,positive,high,,
+1787,censored,50-60,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G3,positive,high,N1,T1
+2761,censored,70-80,yes,yes,no,,no,,no,no,done,no,,yes,,,positive,,N0,T1
+374,metastatic,60-70,yes,no,no,positive,no,negative,no,no,done,yes,,no,,G3,positive,high,,T1
+1265,death,50-60,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,G2,,positive,high,N0,TIS
+22,censored,50-60,yes,no,no,positive,no,low,no,no,done,no,,no,,G3,positive,interm.,,
+3042,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,no,,no,G4,,positive,high,,
+2822,censored,60-70,yes,yes,no,positive,no,low,no,no,done,yes,,yes,,G3,positive,high,N0,T2
+3327,censored,20-40,no,no,no,positive,no,positive,no,no,done,no,stage 1,no,,G2,positive,high,N0,T1
+748,metastatic,80-100,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,interm.,N0,T1
+681,censored,60-70,no,no,no,positive,no,positive,no,done,no,yes,,no,,G2,positive,high,N1,T1
+476,censored,50-60,no,no,no,,no,,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+2875,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,,
+568,censored,20-40,yes,yes,no,positive,yes,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+2400,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,yes,G1,G3,negative,high,N0,T1
+618,recurrence,60-70,yes,yes,no,,no,,no,no,done,yes,,no,,,positive,,,
+2710,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,G3,positive,,N1,T2
+1954,censored,20-40,yes,yes,no,positive,no,low,no,done,done,yes,stage 3,yes,,G3,positive,high,N3,T2
+23,censored,20-40,no,no,no,low,no,negative,no,done,no,no,stage 1,no,,G3,positive,high,N0,T1
+1773,censored,80-100,yes,yes,no,low,no,negative,no,done,no,no,,yes,,,positive,high,,
+1889,censored,60-70,no,no,yes,,no,,no,done,no,no,,no,,,positive,,,
+538,recurrence,40-50,no,no,no,negative,no,negative,no,no,done,no,,no,,G3,positive,low,,
+836,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,G3,negative,high,N0,T1
+2798,censored,40-50,yes,yes,no,negative,no,negative,no,no,done,yes,stage 2,yes,,G3,positive,high,N0,T2
+205,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,,
+2902,censored,40-50,yes,yes,no,positive,no,low,no,done,no,yes,,yes,,G3,positive,high,N1,T2
+1940,metastatic,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,T0
+1340,recurrence,50-60,yes,no,no,negative,no,negative,no,done,no,yes,,no,,G3,negative,high,,T2
+891,censored,70-80,no,no,no,,no,negative,no,done,no,no,stage 3,no,,G3,positive,high,N0,T3
+3580,censored,70-80,yes,yes,no,positive,no,positive,no,done,done,no,stage 1,no,,G3,positive,high,N0,T1
+2329,death,50-60,yes,yes,no,,no,,no,done,no,yes,stage 2,no,,G3,positive,,N1,T2
+73,censored,40-50,no,no,no,positive,no,positive,no,no,done,no,,no,,G3,positive,high,,
+44,censored,70-80,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G2,positive,interm.,N1,T2
+4610,censored,50-60,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,negative,high,N0,T1
+2801,censored,50-60,no,yes,no,positive,no,positive,no,done,no,no,,yes,,,positive,interm.,,
+2183,censored,40-50,yes,yes,no,,no,positive,no,done,no,yes,,yes,,G2,positive,,N0,T0
+3127,censored,50-60,no,no,no,positive,no,positive,no,done,no,yes,,yes,,G3,positive,high,,
+2486,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,N0,T1
+1895,censored,70-80,no,no,no,positive,no,low,no,done,no,no,,no,,,positive,high,N0,T3
+2213,censored,40-50,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G3,positive,high,N1,T1
+143,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,,no,,,positive,,,
+1129,recurrence,70-80,no,no,no,,no,low,no,no,done,no,,no,,,positive,,,
+185,censored,20-40,no,no,no,negative,yes,negative,no,no,done,no,,yes,,,negative,high,,
+137,recurrence,40-50,yes,no,no,,no,negative,no,no,done,no,,no,,,negative,high,N1,T1
+5783,censored,70-80,yes,yes,yes,positive,no,positive,no,done,no,no,,no,,,positive,high,,
+459,metastatic,40-50,yes,yes,no,positive,no,negative,no,done,no,no,,yes,,G3,positive,high,N0,T2
+54,censored,60-70,yes,no,no,,no,negative,no,done,done,no,stage 2,no,,G3,negative,,N0,T2
+2894,censored,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+1681,censored,70-80,no,no,no,negative,no,negative,no,done,no,no,,no,,,positive,high,,
+2741,censored,60-70,no,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+2000,censored,50-60,yes,yes,no,,no,,no,done,no,no,,no,,G2,positive,,N0,T1
+4050,censored,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,N2,T2
+2213,censored,60-70,no,yes,no,positive,no,positive,no,no,done,yes,stage 2,yes,,G2,positive,low,N1,T1
+1733,censored,70-80,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+56,metastatic,50-60,no,no,no,,no,,no,no,done,yes,,no,,,positive,,N0,T1
+1341,censored,60-70,no,no,no,positive,no,positive,no,no,done,yes,,no,,,positive,high,,
+121,recurrence,40-50,yes,no,no,,no,,no,no,done,no,,no,,,negative,,,
+508,death,40-50,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+473,censored,50-60,no,yes,no,positive,no,positive,no,no,done,no,stage 1,yes,,G2,positive,interm.,N0,T1
+1707,metastatic,20-40,yes,yes,no,negative,no,negative,no,done,no,no,stage 2,no,,G3,positive,high,N1,T2
+290,censored,40-50,no,no,no,negative,no,negative,no,done,done,yes,,no,,,positive,interm.,,
+2165,censored,60-70,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,G3,negative,high,N0,T2
+262,metastatic,70-80,yes,yes,no,positive,yes,positive,no,no,done,no,,yes,,G1,positive,low,,
+3707,censored,60-70,no,no,no,negative,no,negative,no,done,no,no,,no,,G3,negative,high,N0,T2
+287,death,60-70,yes,no,no,,no,positive,no,done,no,no,stage 3,yes,,G3,negative,,N2,T3
+98,censored,60-70,yes,no,no,positive,no,positive,no,done,no,no,,no,,G2,positive,high,,
+2884,censored,50-60,yes,yes,no,negative,no,negative,no,done,done,no,,yes,,G3,positive,high,N2,T2
+4136,censored,70-80,yes,yes,no,,no,negative,no,done,no,yes,,no,,,positive,,N0,T0
+1953,censored,50-60,yes,no,no,,no,negative,no,done,no,no,stage 3,yes,,G3,negative,,N2,T2
+832,censored,60-70,yes,yes,no,,yes,negative,no,no,done,yes,,yes,,G3,negative,,N0,TIS
+3963,censored,50-60,yes,no,no,,no,,no,no,done,yes,stage 1,yes,,G3,negative,,N0,T1
+3039,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,stage 2,yes,G4,G3,negative,high,N0,T2
+105,recurrence,50-60,yes,no,no,,no,low,no,no,done,no,,no,,,negative,high,,
+1593,censored,60-70,no,no,no,negative,no,negative,no,done,done,no,,no,,,positive,high,,
+823,censored,70-80,yes,no,no,positive,no,positive,no,no,done,yes,,yes,,,positive,low,N0,T0
+30,censored,20-40,no,no,no,positive,no,low,no,no,done,yes,,no,,G2,positive,high,,
+1648,recurrence,40-50,no,no,yes,negative,no,negative,no,done,done,no,stage 1,no,,G3,positive,high,N0,T1
+3057,censored,40-50,no,yes,no,positive,no,low,no,no,done,no,,yes,,G2,positive,high,N0,T1
+201,recurrence,40-50,yes,yes,no,positive,no,low,no,no,done,yes,,yes,,,positive,high,,
+209,censored,60-70,no,no,no,negative,no,negative,no,done,no,no,stage 2,no,G4,G3,negative,high,N0,T2
+488,censored,70-80,yes,yes,no,,no,positive,no,done,no,yes,,yes,,G1,positive,,N0,T1
+1626,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,low,,
+1638,recurrence,20-40,yes,yes,no,,no,negative,no,no,done,yes,,yes,,G2,positive,,N0,T1
+2489,censored,60-70,no,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,interm.,N0,T1
+2011,censored,50-60,yes,no,no,,yes,,no,no,done,no,,no,,,negative,,,
+4852,censored,20-40,yes,yes,no,,no,,no,no,done,no,,yes,,G2,negative,,,
+2876,censored,60-70,yes,no,no,negative,no,negative,no,no,done,no,stage 1,yes,,G3,negative,high,N0,T1
+2494,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,no,,no,,,negative,,,
+19,death,40-50,no,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,,
+4452,censored,40-50,yes,no,yes,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+2295,censored,70-80,yes,no,no,,no,negative,no,done,no,no,,yes,,,negative,,N0,T1
+39,censored,20-40,no,no,no,negative,no,negative,no,no,done,yes,stage 1,no,,G3,negative,high,N0,T1
+468,death,70-80,yes,no,yes,,no,positive,no,done,no,no,,yes,,G2,negative,,,T1
+3672,censored,80-100,no,yes,no,positive,no,low,no,done,no,yes,stage 1,yes,,G3,positive,high,N0,T1
+2827,censored,70-80,yes,yes,no,positive,no,negative,no,no,done,yes,,yes,,,positive,high,,
+142,censored,70-80,yes,no,no,positive,no,positive,no,done,done,no,,no,,G3,positive,interm.,N0,T2
+4491,censored,60-70,yes,no,no,positive,yes,low,no,no,done,yes,,no,,,positive,high,,
+173,recurrence,60-70,yes,yes,no,positive,no,low,no,no,done,no,stage 1,yes,,G3,positive,low,N1,T1
+2082,censored,80-100,no,no,no,,no,low,no,no,done,yes,stage 1,no,,G3,positive,high,,T2
+719,recurrence,40-50,yes,no,no,negative,yes,negative,no,done,no,yes,,no,,G2,negative,high,N0,T1
+1339,censored,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+600,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 2,yes,,G3,positive,high,N0,T1
+3383,censored,50-60,yes,yes,no,positive,no,positive,no,done,no,yes,,yes,,G3,positive,interm.,N0,T1
+515,death,60-70,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,,G2,negative,high,N0,T0
+357,censored,50-60,no,no,no,positive,no,positive,no,done,no,no,stage 3,no,,G3,positive,high,N3,T1
+934,recurrence,70-80,yes,yes,no,positive,no,low,no,no,done,no,,no,,G3,positive,high,,
+2530,censored,70-80,yes,yes,no,,no,,no,no,done,no,,yes,,G3,positive,,,
+604,censored,60-70,no,no,no,positive,no,negative,no,done,no,no,stage 3,no,,G3,positive,high,N2,T2
+1729,censored,70-80,no,no,no,positive,no,low,no,done,no,no,stage 2,no,,G2,positive,high,N1,T2
+2524,censored,40-50,yes,yes,no,negative,no,negative,no,done,no,yes,,yes,,G3,positive,high,N1,T2
+3328,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,stage 1,yes,,G3,negative,high,N1,T1
+212,recurrence,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1976,censored,60-70,yes,no,no,positive,no,negative,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+3217,censored,80-100,no,yes,yes,positive,yes,negative,no,no,done,yes,stage 1,yes,,G2,positive,high,N0,T1
+246,death,80-100,yes,yes,no,,no,,no,no,done,no,,yes,,,positive,,,
+2226,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 1,yes,,G2,positive,high,N0,T1
+360,death,70-80,no,yes,no,positive,no,positive,no,done,no,yes,,yes,,,positive,high,,T2
+233,recurrence,20-40,no,no,no,,no,,no,done,no,no,,no,,G3,negative,,,
+1402,metastatic,50-60,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,high,,
+3306,censored,60-70,no,yes,no,positive,no,positive,no,done,no,no,stage 1,no,,G3,positive,high,N0,T1
+1101,censored,60-70,yes,yes,no,positive,no,low,no,done,done,no,,yes,,,positive,high,,
+3575,censored,70-80,yes,no,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,,
+3317,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,G2,negative,,N0,T1
+296,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+1979,censored,20-40,no,no,no,positive,no,positive,no,done,no,no,stage 3,no,,G3,positive,high,N2,T2
+93,censored,40-50,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+182,recurrence,60-70,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+81,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,stage 3,no,,G3,positive,high,N2,T2
+2723,death,50-60,yes,no,no,negative,yes,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+795,metastatic,60-70,no,yes,no,,no,,no,done,no,no,,yes,,,positive,,,
+2105,censored,60-70,no,yes,no,positive,no,positive,no,no,done,yes,,yes,G2,,positive,low,,
+380,censored,40-50,yes,no,no,positive,no,low,no,no,done,no,,no,,,positive,interm.,,
+274,metastatic,40-50,no,no,no,positive,no,positive,no,done,no,no,,no,,,positive,interm.,,
+212,recurrence,60-70,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+977,censored,40-50,yes,yes,no,positive,no,positive,no,done,no,no,,yes,,G3,positive,high,N0,T1
+509,censored,50-60,no,no,no,,no,low,no,no,done,yes,stage 1,no,,G3,positive,,N0,T1
+2048,censored,40-50,yes,no,no,,no,,no,done,no,no,,no,,,positive,,,
+160,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,,
+2155,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G2,negative,high,N2,T1
+2391,censored,50-60,no,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,,
+806,censored,70-80,no,no,yes,,no,,no,no,done,no,,yes,,,negative,high,,
+526,recurrence,60-70,yes,yes,no,,no,positive,no,no,done,no,,yes,,G3,positive,,N1,T2
+3139,censored,20-40,no,yes,no,,no,negative,no,done,no,no,,yes,,G3,positive,,N0,T1
+1308,censored,50-60,no,no,no,negative,no,negative,no,done,no,yes,,no,,,negative,high,,
+2859,censored,60-70,yes,no,no,,no,negative,no,no,done,yes,,yes,,,negative,,N0,T1
+1039,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+3110,censored,40-50,yes,yes,no,positive,no,low,no,done,done,yes,,yes,,,positive,high,,
+2384,censored,40-50,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,interm.,,
+3484,censored,50-60,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,N1,T2
+125,recurrence,50-60,yes,yes,no,negative,no,negative,no,no,done,no,,yes,G3,G3,positive,high,,
+81,censored,40-50,no,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G3,negative,high,N1,T1
+413,metastatic,40-50,no,yes,no,,no,,no,no,done,no,,no,,,positive,,,
+2822,censored,40-50,yes,no,no,negative,no,negative,no,done,done,no,,yes,,,negative,high,,
+2559,censored,60-70,yes,yes,no,positive,no,negative,no,done,no,no,stage 1,yes,,G2,positive,high,N1,T1
+84,censored,40-50,no,no,no,,no,positive,no,done,no,no,stage 3,no,,G2,negative,,N2,T2
+2001,censored,50-60,yes,no,no,,no,negative,no,no,done,yes,,no,,G2,positive,low,N0,T1
+178,recurrence,20-40,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2636,censored,60-70,yes,yes,no,positive,no,low,no,done,no,yes,stage 1,yes,,G3,positive,high,N0,T1
+44,censored,60-70,no,no,no,positive,no,positive,no,no,done,no,,no,,G3,positive,high,N1,T2
+2459,death,40-50,yes,yes,no,positive,no,positive,no,no,done,no,stage 1,yes,,G3,positive,low,N0,T1
+232,recurrence,60-70,no,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+2513,censored,80-100,yes,yes,no,positive,no,low,no,no,done,no,,yes,,,positive,high,,
+1933,censored,40-50,yes,no,no,negative,yes,negative,no,no,done,yes,stage 2,no,,G2,negative,high,N0,T2
+2238,censored,70-80,yes,yes,no,positive,no,positive,no,done,done,no,,yes,G2,,positive,high,,
+91,recurrence,40-50,yes,no,no,negative,yes,negative,no,done,no,yes,,no,,G2,positive,high,,
+2222,metastatic,50-60,no,yes,no,,no,positive,no,no,done,no,,yes,,G2,positive,,,T1
+2041,recurrence,40-50,no,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+1968,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,,
+2196,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2872,censored,60-70,no,yes,no,positive,no,positive,no,no,done,no,stage 1,yes,,G3,positive,high,N1,T1
+2095,censored,70-80,no,no,no,positive,no,positive,no,no,done,no,stage 2,no,,G3,positive,high,N1,T1
+2696,censored,50-60,no,yes,no,positive,no,negative,no,done,no,no,,yes,,,positive,high,,
+3340,censored,50-60,yes,no,no,positive,no,positive,no,done,no,yes,,yes,,,negative,high,N0,T0
+1941,censored,60-70,yes,no,yes,negative,no,negative,no,done,no,no,,no,,,positive,high,,
+121,recurrence,70-80,yes,no,no,,no,positive,no,no,done,no,stage 2,no,G3,G3,positive,high,N1,T2
+4190,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,yes,stage 1,no,,G3,positive,,N0,T1
+2413,censored,80-100,yes,yes,no,,no,negative,no,done,no,yes,stage 2,no,,G3,positive,,N3,T2
+1872,censored,70-80,yes,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,N1,T1
+212,censored,50-60,no,no,no,negative,no,negative,no,no,done,no,stage 2,no,,G3,negative,high,N1,T2
+986,censored,40-50,yes,no,no,negative,yes,negative,no,done,no,no,,no,G4,,negative,interm.,,
+2005,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,interm.,,
+2014,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,negative,high,N0,T1
+210,recurrence,20-40,yes,no,no,positive,no,positive,no,no,done,no,,no,,G3,positive,high,N0,T1
+2054,recurrence,60-70,yes,no,no,,no,,no,done,no,no,,no,,,negative,,,
+2577,censored,40-50,yes,no,no,negative,no,negative,no,done,done,no,,no,,G3,negative,high,N0,T1
+1985,censored,80-100,yes,yes,no,low,no,negative,no,no,done,yes,,yes,,G3,positive,high,,
+2923,censored,60-70,yes,no,no,,no,negative,no,no,done,no,,yes,,,negative,high,,
+2288,censored,50-60,no,no,no,negative,no,negative,no,no,done,no,stage 1,no,,G2,negative,high,N0,T1
+102,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+3120,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,stage 2,no,,G2,negative,interm.,N1,T2
+2702,censored,60-70,yes,yes,no,positive,no,negative,no,no,done,yes,,yes,,G3,positive,high,N0,T1
+2229,censored,70-80,no,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,high,,
+1978,censored,70-80,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,G3,,negative,high,,
+490,recurrence,40-50,no,no,no,positive,no,low,no,no,done,yes,,no,,,positive,high,,
+2774,censored,40-50,no,yes,no,positive,no,negative,no,no,done,yes,stage 2,yes,,G3,positive,high,N1,T2
+1986,censored,70-80,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,G3,G3,negative,high,N0,T1
+284,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+4038,censored,40-50,no,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,low,,
+917,death,60-70,yes,yes,no,negative,yes,negative,no,done,no,yes,stage 2,no,,G3,negative,high,N1,T2
+3828,censored,70-80,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,,G2,positive,interm.,N2,T2
+122,recurrence,60-70,yes,no,no,positive,no,low,no,no,done,no,,no,,,positive,low,,
+2726,censored,50-60,yes,no,no,,no,negative,no,done,no,no,stage 2,yes,,G3,negative,,N0,T2
+468,censored,60-70,yes,no,no,,no,,no,done,no,no,,no,,,negative,,,T3
+2060,censored,50-60,no,no,no,positive,no,positive,yes,no,done,yes,,yes,G1,,positive,high,,
+2157,censored,50-60,yes,yes,no,negative,no,negative,no,done,done,no,,yes,,,positive,interm.,,
+2079,censored,60-70,yes,yes,no,positive,yes,positive,no,done,done,no,stage 2,no,,G3,positive,high,N1,T2
+75,censored,40-50,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+1330,metastatic,50-60,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,high,N0,T1
+2815,censored,70-80,yes,yes,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+3660,censored,40-50,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,,N0,T1
+3092,censored,70-80,yes,no,no,negative,yes,negative,no,done,no,yes,stage 2,no,,G3,negative,high,N0,T2
+1977,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,negative,high,N0,T2
+575,censored,80-100,yes,yes,no,positive,no,negative,no,done,done,yes,,yes,,,positive,high,N0,T2
+300,death,60-70,yes,no,yes,,yes,,no,no,done,no,,no,,G3,negative,,N0,T1
+260,censored,80-100,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,negative,,N0,T1
+155,death,70-80,yes,no,no,,no,negative,no,done,done,no,stage 1,no,,G3,negative,,N0,T1
+1052,death,40-50,yes,yes,no,positive,no,low,no,no,done,yes,stage 1,yes,G4,G2,positive,high,N0,T1
+638,metastatic,60-70,yes,yes,no,positive,no,positive,no,done,no,yes,stage 3,yes,,G2,positive,interm.,N3,T2
+1987,censored,60-70,yes,no,no,,yes,negative,no,no,done,yes,stage 1,no,,G3,negative,high,N1,T1
+3788,censored,50-60,yes,yes,no,negative,no,negative,no,done,done,yes,,yes,,G3,positive,high,,
+98,censored,50-60,no,no,no,positive,no,negative,no,done,done,no,stage 1,no,,G2,positive,interm.,N0,T1
+2335,censored,40-50,no,no,no,positive,no,negative,no,done,done,yes,,no,,,positive,high,,
+546,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+2217,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G3,positive,high,N0,T1
+48,censored,50-60,no,no,no,positive,no,positive,no,done,no,no,,no,,G2,positive,low,,
+393,death,40-50,yes,no,no,negative,yes,negative,no,done,no,no,,yes,,G3,negative,high,,T4
+161,censored,60-70,no,yes,no,negative,no,negative,no,no,done,no,,yes,,,positive,high,,
+1902,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+2076,recurrence,70-80,yes,yes,no,negative,no,negative,no,done,no,no,,yes,,G2,positive,high,,
+2019,censored,20-40,yes,yes,no,,no,,no,no,done,no,,yes,,,positive,,,
+2245,censored,20-40,yes,yes,no,positive,no,negative,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T2
+3037,censored,60-70,yes,no,no,,yes,negative,no,done,no,no,stage 2,no,G3,G2,positive,,N1,T2
+1428,recurrence,60-70,no,no,no,,no,,no,done,no,no,,no,,G2,negative,,,
+171,censored,60-70,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,,negative,high,N1,T2
+4419,censored,50-60,yes,no,yes,,no,,no,done,no,no,,yes,,,negative,,,
+1925,censored,70-80,yes,no,no,positive,no,low,no,done,no,no,stage 1,no,,G3,positive,high,N0,T1
+3478,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,no,,yes,,,positive,high,,
+1947,censored,40-50,yes,no,yes,negative,no,negative,no,done,no,yes,,yes,,,negative,high,,
+1661,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+3394,censored,40-50,yes,no,no,negative,no,positive,no,no,done,no,,yes,,,negative,,,
+2120,censored,60-70,yes,no,no,,yes,,no,no,done,yes,,yes,,,negative,,,T2
+1891,censored,60-70,no,no,no,positive,no,negative,no,done,no,no,stage 1,no,,G2,positive,interm.,N1,T1
+2687,censored,70-80,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T2
+1242,death,50-60,no,no,yes,negative,no,negative,no,no,done,no,,no,,,positive,high,,
+2040,censored,70-80,no,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2726,censored,60-70,yes,yes,no,positive,no,low,no,done,no,no,stage 1,yes,,G3,positive,high,N0,T1
+689,metastatic,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1149,metastatic,60-70,no,no,no,,no,positive,no,no,done,no,,no,,G3,positive,,N0,T1
+214,metastatic,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,negative,high,N1,T1
+2765,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,high,,
+1452,censored,20-40,yes,yes,no,negative,no,negative,no,done,no,no,stage 3,yes,,G3,positive,high,N3,T2
+749,metastatic,80-100,yes,yes,no,negative,no,negative,no,done,no,no,stage 2,yes,,,positive,high,N1,T2
+856,censored,20-40,no,no,no,,no,,no,done,no,no,stage 1,no,,G3,negative,,N0,T1
+4366,censored,50-60,yes,yes,no,positive,no,negative,no,done,no,yes,,yes,,G3,positive,high,,
+483,censored,80-100,yes,no,no,negative,no,negative,no,done,done,no,stage 2,yes,,G3,negative,high,N0,T2
+882,recurrence,40-50,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,G3,positive,high,,
+1475,recurrence,70-80,yes,no,no,negative,no,negative,no,done,no,yes,stage 1,no,,G2,positive,high,N0,T1
+436,censored,50-60,yes,no,no,negative,no,negative,no,done,no,yes,stage 1,no,,G3,positive,high,N0,T1
+106,censored,70-80,no,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,N2,T4
+625,censored,80-100,no,no,no,,no,negative,no,done,no,no,,no,,G3,negative,,N0,T2
+2058,censored,20-40,yes,no,no,,no,negative,no,no,done,yes,,yes,,,negative,high,,
+2378,censored,60-70,no,no,no,positive,no,low,no,no,done,yes,stage 2,no,,G2,positive,interm.,N0,T2
+151,censored,40-50,no,no,yes,positive,no,positive,no,no,done,no,stage 2,no,,G3,positive,high,N1,T1
+1029,death,40-50,no,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,,
+1963,censored,40-50,no,no,no,positive,no,positive,no,no,done,no,,no,,,positive,low,,
+232,death,60-70,no,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,high,N0,T1
+1445,metastatic,40-50,no,no,no,,no,,no,done,no,yes,,no,,,negative,,,
+271,metastatic,50-60,no,no,no,,no,,no,no,done,no,,no,,,negative,,,
+82,death,20-40,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1600,censored,80-100,no,no,no,negative,no,negative,no,done,done,no,,no,,,positive,high,,
+2018,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,stage 2,yes,,G3,negative,high,N0,T2
+2829,censored,20-40,yes,no,no,positive,no,negative,no,done,done,yes,stage 2,yes,,G2,negative,high,N1,T2
+197,censored,40-50,yes,yes,no,,no,positive,no,no,done,yes,stage 1,yes,G1,G2,positive,,N0,T1
+133,death,70-80,yes,no,no,positive,no,low,no,no,done,no,,no,G4,,positive,high,,
+2353,death,60-70,no,yes,no,negative,no,negative,no,no,done,no,,yes,,,positive,high,N0,T1
+340,censored,70-80,yes,no,no,,no,,no,done,no,no,,yes,,,negative,,,
+3529,censored,40-50,yes,yes,no,,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,,N1,T1
+2239,censored,60-70,yes,no,yes,negative,yes,negative,no,no,done,no,,no,,,negative,high,,
+3252,censored,50-60,no,yes,no,,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,,N0,T1
+915,censored,60-70,yes,yes,no,positive,no,low,no,no,done,no,stage 2,no,,G3,positive,high,N0,T2
+3593,recurrence,60-70,yes,yes,no,positive,no,negative,no,no,done,yes,,yes,,,positive,high,,
+462,metastatic,70-80,no,no,no,,no,,no,done,done,no,,yes,,,negative,,,
+89,censored,60-70,no,no,no,positive,no,low,no,done,no,no,,no,,G3,positive,high,N0,T2
+513,death,60-70,no,yes,yes,low,no,negative,no,no,done,yes,,yes,,,positive,high,,
+2109,censored,50-60,no,yes,no,positive,no,low,no,no,done,no,,yes,,G3,positive,high,N0,T2
+2307,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,G3,positive,high,,
+1864,censored,70-80,yes,no,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,,
+3291,censored,50-60,yes,yes,no,positive,no,negative,no,done,done,no,,no,,G3,positive,high,N0,T1
+3532,censored,40-50,yes,yes,no,negative,yes,negative,no,done,no,yes,,no,,G3,positive,high,N0,T1
+2232,censored,20-40,yes,yes,no,negative,no,negative,no,no,done,no,stage 1,yes,,G3,positive,high,N1,T1
+1385,recurrence,50-60,yes,no,no,positive,no,negative,no,no,done,yes,stage 2,yes,,,positive,high,N0,T2
+273,censored,70-80,yes,no,yes,negative,yes,negative,no,done,no,no,,no,,G3,negative,high,N0,T2
+4096,censored,40-50,yes,yes,no,positive,no,negative,no,no,done,yes,stage 1,yes,,G2,positive,high,N0,T1
+624,censored,50-60,no,no,no,negative,no,negative,no,no,done,yes,stage 1,no,,G1,negative,high,N0,T1
+1356,recurrence,70-80,yes,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,
+2145,censored,50-60,no,no,no,,no,,no,done,done,yes,stage 2,no,,G3,negative,,N1,T2
+2647,censored,40-50,yes,yes,no,positive,no,negative,no,done,no,no,,no,,,positive,high,,
+1052,censored,50-60,no,yes,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+3536,death,20-40,yes,no,no,,no,positive,no,no,done,no,,yes,,G2,negative,,N1,T2
+3992,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+2795,censored,80-100,yes,yes,no,,no,negative,no,done,done,yes,stage 2,yes,,G3,positive,high,N0,T2
+2601,censored,50-60,yes,yes,no,,no,,no,no,done,no,,yes,,,positive,,,
+620,death,60-70,no,no,no,negative,no,negative,no,done,no,yes,,no,,G3,negative,high,N1,T3
+29,censored,80-100,no,no,no,negative,no,negative,no,done,no,no,,no,,G3,negative,high,N0,T2
+943,death,50-60,yes,no,no,,no,,no,done,no,yes,stage 2,yes,,G3,negative,,N1,T1
+380,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,yes,stage 1,no,,G3,negative,high,N0,T1
+1079,censored,50-60,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,G3,negative,high,N1,T2
+1904,censored,20-40,yes,no,no,positive,no,low,no,done,no,no,,no,,,positive,high,N0,T2
+3468,censored,60-70,yes,yes,no,negative,no,negative,no,done,no,no,stage 2,yes,,G3,positive,high,N1,T2
+174,recurrence,20-40,yes,yes,no,negative,yes,negative,no,no,done,yes,stage 1,yes,,G3,negative,high,,T1
+2499,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,high,N1,
+553,censored,80-100,yes,no,no,,no,,no,done,done,no,,yes,,G3,negative,,N1,T1
+604,censored,40-50,yes,yes,yes,positive,no,negative,no,no,done,no,,yes,,,negative,interm.,,
+171,censored,40-50,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+4038,censored,50-60,yes,yes,no,,no,negative,no,done,done,yes,,yes,,G3,positive,high,N1,T1
+390,metastatic,40-50,yes,yes,no,negative,no,negative,no,done,no,no,,yes,,,positive,high,,
+347,censored,20-40,yes,no,no,,yes,,no,no,done,no,,no,,,negative,,,
+762,recurrence,40-50,no,no,no,positive,no,negative,no,no,done,yes,stage 1,no,,G3,positive,high,,T1
+2970,censored,50-60,no,yes,no,negative,no,negative,no,done,no,yes,stage 2,yes,,G2,positive,high,N0,T2
+73,censored,40-50,no,no,no,low,no,negative,no,done,no,no,stage 2,no,,G2,negative,high,N0,T2
+1518,death,70-80,yes,yes,no,positive,no,positive,no,done,no,no,,yes,G2,,positive,high,,
+1257,death,80-100,no,no,no,positive,no,positive,no,no,done,no,stage 2,no,,G2,positive,high,N1,T1
+343,metastatic,60-70,no,no,no,positive,no,low,no,no,done,no,stage 1,no,,G2,positive,low,N0,T1
+2472,censored,80-100,yes,yes,yes,positive,no,low,no,no,done,no,,yes,,G3,positive,high,,
+2517,censored,50-60,no,yes,no,positive,no,positive,no,no,done,no,,yes,,G3,positive,high,,
+82,censored,50-60,no,no,no,positive,no,positive,no,no,done,no,stage 1,no,,G2,positive,interm.,N0,T1
+1881,censored,50-60,no,no,no,positive,no,positive,no,done,no,no,,no,,G3,positive,high,N0,T1
+402,censored,80-100,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,N1,T2
+183,recurrence,60-70,yes,no,no,,yes,,no,no,done,yes,stage 3,no,,G3,negative,,N0,T2
+2284,censored,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+183,recurrence,40-50,no,no,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,
+182,censored,50-60,no,no,yes,,no,negative,no,no,done,no,,no,,G3,positive,high,N2,T2
+162,recurrence,50-60,yes,no,no,,yes,negative,no,done,no,yes,,no,,G3,negative,,N0,T2
+1502,censored,40-50,no,no,no,negative,no,negative,no,done,no,yes,,no,,G3,positive,high,N2,T2
+549,death,50-60,yes,no,no,,no,,no,no,done,yes,,yes,,,negative,,,
+189,recurrence,60-70,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,no,,G2,negative,low,N0,T1
+56,censored,60-70,no,no,no,positive,no,low,no,done,no,no,,no,,G3,positive,high,N2,T1
+1289,censored,40-50,yes,no,no,,yes,,no,no,done,no,,no,,G1,negative,high,N0,T1
+2014,censored,70-80,yes,yes,no,low,no,negative,no,no,done,yes,,yes,,,positive,high,,
+49,censored,50-60,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,,N0,T1
+3471,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,interm.,,
+370,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+98,censored,70-80,yes,no,no,negative,no,negative,no,done,no,yes,,no,,,negative,high,,
+12,metastatic,40-50,no,no,no,,no,positive,no,no,done,no,,no,,G2,negative,,,
+295,censored,40-50,no,no,no,negative,no,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+2037,censored,40-50,no,no,no,positive,no,positive,no,no,done,no,,no,,G2,positive,,N2,T1
+632,censored,80-100,yes,yes,no,positive,no,negative,no,done,no,yes,,no,,G3,positive,high,,
+2067,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,G3,negative,high,,
+117,recurrence,60-70,yes,no,no,negative,no,negative,no,no,done,no,stage 2,no,,G2,negative,interm.,N0,T2
+1041,death,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N0,T1
+2580,censored,50-60,yes,yes,no,,no,negative,no,no,done,yes,stage 3,yes,,G2,positive,,N0,T0
+584,recurrence,40-50,no,no,no,negative,no,negative,no,done,no,no,,no,,,positive,high,,
+146,recurrence,40-50,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,high,,
+2223,recurrence,70-80,yes,no,no,positive,no,positive,no,no,done,yes,,no,,G3,positive,interm.,,
+2511,censored,80-100,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,G2,positive,high,,
+2152,censored,20-40,yes,yes,no,positive,no,low,no,done,no,no,stage 3,no,,G3,positive,high,N1,T2
+1967,censored,50-60,no,no,no,,no,low,no,done,no,no,stage 1,no,,G3,negative,high,N1,T2
+473,recurrence,50-60,yes,no,yes,,no,,no,no,done,no,,yes,,,negative,,,
+3088,recurrence,20-40,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,G3,positive,high,N0,T1
+4946,censored,40-50,no,yes,no,positive,no,positive,no,done,no,yes,,yes,,G2,positive,high,N2,T2
+1835,censored,80-100,no,no,no,positive,no,negative,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+373,recurrence,50-60,yes,no,no,,no,negative,no,done,no,no,stage 2,yes,,G3,negative,high,N0,T2
+248,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,G4,,negative,high,N0,T1
+2458,censored,40-50,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,N0,TIS
+3575,censored,50-60,yes,no,no,,no,negative,no,done,no,no,stage 3,yes,,G3,negative,high,N2,T2
+95,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+2215,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,yes,,yes,G4,G3,positive,high,,
+2088,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,
+1047,censored,70-80,yes,no,no,negative,no,negative,no,done,done,no,,yes,,,negative,high,,
+67,censored,40-50,no,no,no,negative,no,negative,no,done,no,no,stage 3,no,,G3,positive,high,N2,T1
+546,censored,70-80,no,no,no,negative,no,negative,no,done,done,no,stage 2,no,,G3,negative,high,N1,T2
+2124,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,,yes,,G3,positive,high,,
+1289,death,60-70,yes,yes,no,positive,no,low,no,done,done,yes,stage 3,yes,,G3,positive,high,N2,T2
+460,censored,60-70,yes,yes,yes,positive,no,positive,no,no,done,yes,,yes,G4,,positive,high,,
+2132,censored,70-80,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,T1
+3959,censored,40-50,no,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,,T1
+2031,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N1,T1
+2105,censored,40-50,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+2135,censored,20-40,yes,yes,no,negative,no,negative,no,done,done,yes,,no,,G2,positive,high,,
+2113,metastatic,70-80,no,yes,yes,positive,no,low,no,done,no,no,,no,,,positive,high,,
+1838,censored,70-80,yes,no,no,,no,positive,no,no,done,yes,,yes,,G1,positive,,,
+211,recurrence,50-60,yes,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,high,N0,T1
+419,recurrence,20-40,no,no,no,,no,negative,no,done,no,no,,no,,G3,negative,,,
+2389,censored,60-70,yes,yes,no,positive,no,negative,no,no,done,no,,no,,G3,positive,high,,
+2628,censored,50-60,no,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,interm.,N0,T1
+320,recurrence,60-70,no,no,no,positive,no,positive,no,no,done,no,,no,,G2,positive,high,N0,T1
+2847,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,stage 2,yes,G3,G3,negative,high,N1,T1
+761,censored,70-80,no,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+3054,censored,50-60,yes,yes,no,negative,no,negative,no,done,no,no,stage 2,yes,G2,G3,positive,high,N1,T2
+1805,censored,20-40,yes,no,no,negative,no,,no,done,no,yes,,yes,,,negative,high,N1,T1
+272,recurrence,70-80,no,no,no,positive,no,positive,no,no,done,no,,no,,,positive,low,,
+3456,death,40-50,yes,yes,no,low,no,low,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+1634,metastatic,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N0,T1
+412,censored,50-60,no,yes,no,,no,,no,done,no,no,,yes,,G3,positive,,N1,T2
+1366,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G2,negative,high,,
+128,recurrence,40-50,yes,no,no,,no,negative,no,no,done,no,,no,,G3,negative,high,N0,TIS
+2091,censored,50-60,no,no,no,positive,no,low,no,done,no,no,stage 2,no,,G3,positive,high,N1,T2
+181,recurrence,20-40,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,G3,negative,high,,
+152,recurrence,80-100,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,no,,G3,positive,high,N0,T1
+193,censored,70-80,yes,no,no,negative,yes,negative,no,no,done,no,,no,,G3,negative,high,N0,T1
+2094,censored,70-80,no,no,yes,,no,negative,no,done,no,no,stage 1,no,,G2,positive,,N0,T1
+373,recurrence,40-50,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,,positive,high,N0,T0
+1319,censored,40-50,no,no,no,negative,no,negative,no,done,done,no,,no,,G3,positive,high,N0,T2
+508,recurrence,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+871,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,N0,T0
+2060,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,stage 3,no,,G3,negative,high,N2,T2
+1678,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,no,stage 2,no,,G3,positive,high,N1,T2
+2196,censored,60-70,yes,no,no,,no,,no,done,no,no,,yes,,G3,negative,high,N0,T1
+689,recurrence,60-70,yes,yes,no,,no,positive,no,no,done,no,,no,,G3,positive,,N3,T2
+511,censored,20-40,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,N1,T1
+80,censored,70-80,no,no,no,positive,no,low,no,no,done,no,stage 1,no,,G2,positive,high,N0,T1
+1732,censored,40-50,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+2412,censored,70-80,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+1789,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+5031,censored,20-40,yes,yes,no,negative,no,negative,no,done,done,yes,,yes,,G3,negative,high,N1,T1
+305,censored,40-50,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,negative,,N1,T1
+3606,censored,40-50,yes,no,no,,no,,no,no,done,no,stage 1,no,G2,G2,negative,,N0,T1
+311,recurrence,70-80,no,yes,no,,no,,no,done,no,no,,yes,,,negative,,,
+1818,censored,40-50,yes,no,no,negative,yes,negative,no,done,no,yes,stage 3,no,,G2,negative,high,N2,T2
+406,censored,70-80,yes,no,no,negative,no,negative,no,done,no,yes,,no,,,negative,high,,
+294,censored,20-40,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+2441,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,no,stage 1,no,,G3,negative,high,N1,T2
+1850,censored,60-70,no,no,no,negative,no,negative,no,no,done,yes,,no,,G2,positive,high,,
+3598,censored,50-60,no,no,no,positive,no,positive,no,no,done,no,stage 1,no,,G2,positive,high,N0,T1
+1748,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,N0,T1
+149,censored,60-70,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,N1,T2
+2133,censored,70-80,no,no,no,positive,no,positive,no,done,done,yes,,no,,G3,positive,high,N0,T2
+2487,censored,50-60,yes,no,no,,no,negative,no,no,done,no,,yes,G2,,negative,,,
+4056,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+4098,censored,40-50,yes,no,no,,yes,,no,done,no,no,,no,,,negative,,,T1
+1955,censored,50-60,yes,yes,no,positive,no,negative,no,done,no,no,stage 2,yes,,,positive,high,N1,T2
+2597,censored,50-60,yes,yes,no,positive,no,negative,no,done,no,yes,,yes,,,positive,high,N0,TIS
+2161,censored,50-60,yes,no,no,,yes,negative,no,done,done,no,stage 1,no,,G1,negative,,N0,T1
+2026,censored,70-80,yes,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G3,negative,high,N0,T1
+2773,censored,40-50,no,yes,yes,positive,no,low,no,no,done,no,stage 1,yes,,G3,positive,high,N0,T1
+2348,censored,70-80,yes,yes,no,,no,,no,done,done,no,,no,,,positive,,,
+2054,censored,60-70,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,,G2,negative,low,N1,T2
+1638,censored,70-80,no,no,no,low,no,negative,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+42,censored,70-80,no,no,no,low,no,negative,no,no,done,yes,,no,,G3,negative,high,N0,T2
+1934,censored,60-70,no,yes,no,,no,negative,no,no,done,no,,no,,G3,positive,,N1,T1
+2068,censored,20-40,yes,no,no,negative,yes,negative,no,done,done,no,stage 2,no,,G3,negative,high,N0,T2
+2359,censored,60-70,no,yes,no,,no,negative,no,no,done,yes,,yes,,G3,positive,,N0,T1
+2907,censored,40-50,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,,
+214,censored,50-60,yes,no,no,positive,no,low,no,no,done,no,,no,,,positive,high,,
+68,censored,50-60,no,no,no,positive,no,low,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+134,recurrence,50-60,yes,no,no,,no,,no,no,done,yes,,no,,,positive,,,
+6917,censored,50-60,yes,yes,yes,positive,no,positive,no,no,done,yes,,no,,,positive,high,,
+2029,censored,40-50,no,yes,no,positive,no,low,no,no,done,no,stage 1,yes,,G3,positive,high,N0,T1
+2646,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,G2,positive,interm.,,
+1885,censored,60-70,no,no,no,negative,no,negative,no,done,done,no,,no,,G3,negative,high,,
+1962,censored,70-80,yes,yes,no,,no,negative,no,done,no,no,,yes,,G3,positive,high,,
+1923,censored,40-50,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,N0,T1
+225,recurrence,40-50,no,no,no,positive,no,low,no,no,done,no,stage 1,no,,G3,positive,high,N1,T1
+1750,censored,80-100,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,G3,positive,high,,
+3544,censored,70-80,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,G4,G2,negative,high,N1,T1
+2433,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,G2,negative,high,N1,T1
+404,censored,60-70,yes,no,no,,yes,,no,no,done,no,,yes,,,negative,,,
+1560,death,40-50,no,no,no,,no,positive,no,no,done,yes,stage 1,no,,G2,positive,,N0,T1
+1996,censored,80-100,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,high,,
+2675,death,60-70,yes,yes,no,,no,negative,no,no,done,yes,stage 1,yes,,G3,negative,,N0,T1
+200,recurrence,60-70,no,no,no,,no,positive,no,no,done,no,,no,,G2,positive,,,
+3031,censored,60-70,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,G2,negative,high,N0,T1
+1849,censored,70-80,no,no,no,negative,no,negative,no,no,done,yes,,no,G4,,negative,high,N1,T1
+3055,censored,80-100,no,no,no,,no,negative,no,done,done,no,,no,,G3,negative,high,N0,T2
+3593,censored,50-60,yes,no,no,negative,no,negative,no,done,done,yes,,yes,,,negative,high,,T1
+174,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,stage 3,no,,G3,negative,high,N2,T3
+5267,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,interm.,,
+3299,censored,50-60,yes,yes,no,positive,no,low,no,done,no,no,stage 2,yes,,G3,positive,interm.,N1,T2
+3740,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,no,stage 1,yes,,G3,positive,high,N0,T1
+1828,censored,80-100,yes,no,no,,no,negative,no,no,done,yes,,no,,G3,negative,,N1,T2
+294,metastatic,40-50,yes,no,no,positive,no,negative,no,no,done,no,,yes,,,positive,high,,
+1828,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,stage 2,no,,G3,negative,high,N0,T2
+13,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,,no,,G3,positive,high,N1,T2
+2078,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+58,censored,40-50,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,N1,T1
+2719,censored,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,G2,,negative,high,,
+679,censored,50-60,yes,no,no,,no,,no,done,no,no,,yes,,,negative,,,
+1389,recurrence,80-100,yes,yes,no,,no,negative,no,no,done,yes,,yes,,G3,positive,high,,
+2799,censored,60-70,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,,negative,high,,
+52,censored,70-80,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+1930,censored,60-70,no,no,no,,yes,,no,done,no,no,,yes,,,negative,,,T3
+785,recurrence,40-50,no,yes,no,positive,no,positive,no,done,no,no,stage 2,no,,G2,positive,high,N1,T2
+171,censored,50-60,yes,no,no,negative,no,negative,no,no,done,no,,no,,G3,negative,,,
+1031,censored,60-70,no,no,no,,no,,no,done,done,yes,stage 3,no,,G3,negative,,N2,T2
+5855,censored,50-60,no,no,no,negative,no,negative,no,no,done,yes,stage 1,no,,G3,negative,high,,T1
+487,censored,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2087,censored,50-60,yes,yes,yes,positive,no,low,no,no,done,yes,,yes,,,positive,interm.,,
+2206,censored,50-60,yes,yes,no,,no,positive,no,no,done,yes,stage 2,yes,,G2,positive,,N0,T1
+74,censored,40-50,no,no,no,,no,negative,no,done,no,no,stage 2,no,,G2,negative,,N0,T2
+3128,censored,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+4118,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+2206,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,negative,high,N3,T2
+2243,censored,60-70,yes,no,no,,no,positive,no,no,done,no,stage 1,yes,,G1,positive,,N0,T1
+921,censored,20-40,yes,no,no,negative,yes,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+5192,death,50-60,yes,no,no,negative,yes,negative,no,done,no,no,,no,,,negative,high,,
+381,metastatic,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N2,TIS
+2240,censored,80-100,yes,yes,no,negative,no,negative,no,done,done,no,stage 3,yes,G3,G3,positive,high,N1,T2
+484,censored,60-70,yes,yes,no,,no,,no,no,done,no,stage 1,yes,,G3,positive,,N0,T1
+2110,censored,50-60,yes,no,no,,yes,,no,no,done,no,,no,,,negative,,,
+5182,censored,20-40,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T2
+1933,metastatic,60-70,no,yes,no,positive,no,low,no,done,no,no,,yes,,,positive,high,,
+214,recurrence,80-100,no,yes,no,low,no,negative,no,no,done,no,,no,,,positive,high,,
+43,censored,40-50,no,no,no,,no,positive,no,done,no,no,,no,,G3,negative,,N0,T1
+2512,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+2074,censored,20-40,yes,no,no,negative,no,negative,no,done,done,no,,yes,,G3,negative,high,N1,T2
+675,recurrence,40-50,no,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G3,negative,high,N0,T1
+2051,censored,80-100,no,no,no,positive,no,low,no,no,done,yes,,no,,,positive,high,N0,T1
+2809,censored,40-50,yes,yes,no,negative,no,negative,no,done,done,no,,yes,,G3,positive,high,N1,T3
+2306,censored,50-60,yes,no,yes,positive,no,negative,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+93,censored,80-100,no,no,no,,no,positive,no,done,done,no,stage 1,no,,G2,positive,,N0,T1
+500,metastatic,20-40,yes,no,no,,no,negative,no,no,done,no,,yes,,G3,negative,,N0,TIS
+1927,censored,50-60,yes,no,no,negative,no,negative,no,done,done,no,stage 2,no,,G3,negative,high,N1,T1
+251,censored,50-60,no,no,yes,positive,no,positive,no,no,done,yes,stage 1,no,,G2,positive,interm.,N0,T1
+862,censored,50-60,no,no,no,,no,,no,done,no,no,,no,,,negative,,,
+3336,censored,50-60,yes,yes,no,negative,no,negative,no,done,done,yes,,yes,,G2,positive,high,N2,T0
+185,recurrence,50-60,yes,no,no,low,no,,no,done,no,no,stage 3,yes,,G2,negative,high,N2,T2
+3140,censored,60-70,yes,yes,no,positive,no,negative,no,done,no,no,,no,,,positive,low,N0,T2
+359,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,G3,G3,negative,high,,
+1183,death,80-100,yes,yes,yes,positive,no,low,no,done,done,yes,stage 1,yes,,G3,positive,high,N0,T1
+2431,censored,40-50,yes,no,no,,yes,positive,no,no,done,yes,stage 1,yes,,G2,negative,,N0,T1
+1703,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,high,,
+408,censored,70-80,yes,no,no,,yes,positive,no,no,done,no,stage 1,no,,G3,negative,,N0,T1
+2244,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,stage 2,yes,,G3,negative,high,N0,T2
+4880,censored,60-70,no,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G2,positive,interm.,N1,T2
+570,metastatic,70-80,yes,no,no,,no,,no,done,no,yes,,yes,,G3,negative,,N2,T2
+3519,censored,50-60,yes,no,yes,negative,no,negative,no,no,done,yes,stage 1,yes,,G2,negative,interm.,N0,T1
+2404,censored,70-80,no,yes,yes,positive,no,low,no,no,done,yes,stage 1,yes,,G2,positive,high,N0,T1
+1616,censored,40-50,yes,no,no,low,no,low,no,done,no,no,stage 3,yes,,G3,negative,low,N0,T3
+1316,death,70-80,yes,yes,no,negative,no,negative,no,no,done,yes,stage 3,yes,,G3,positive,high,N3,T3
+721,censored,20-40,no,yes,no,positive,no,positive,no,no,done,no,stage 1,yes,,G2,positive,interm.,N0,T1
+6912,censored,20-40,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+287,recurrence,60-70,no,yes,no,positive,no,positive,no,no,done,no,stage 2,yes,,G3,positive,high,N2,T2
+2736,censored,50-60,yes,yes,no,,no,negative,no,no,done,no,,yes,,G2,positive,,N0,T1
+2945,censored,60-70,no,no,no,positive,no,positive,no,no,done,no,,no,,G1,positive,interm.,N1,T1
+2989,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,G3,negative,high,,
+3514,censored,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+335,censored,60-70,no,no,yes,positive,no,positive,no,done,no,no,stage 1,no,,G3,positive,interm.,N0,T1
+1020,censored,60-70,yes,no,no,positive,no,positive,yes,no,done,no,,yes,,,negative,high,,
+1837,censored,50-60,no,yes,no,positive,no,low,no,done,no,no,stage 2,yes,,G2,positive,high,N0,T2
+3428,censored,80-100,no,yes,no,,no,negative,no,no,done,yes,,yes,,G3,positive,,N0,T1
+568,censored,60-70,yes,no,no,negative,no,negative,no,done,done,yes,,no,,,negative,high,N0,TIS
+2230,metastatic,20-40,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+1837,censored,80-100,no,no,no,positive,no,low,no,done,no,no,,no,,,positive,high,,
+3712,censored,40-50,yes,yes,no,,no,,no,done,no,no,,no,,G2,positive,,,
+233,censored,60-70,no,no,no,,yes,,no,no,done,yes,,no,,,negative,,,
+353,death,50-60,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G3,negative,high,N0,T1
+2446,metastatic,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+1979,censored,60-70,yes,no,no,negative,no,negative,no,done,done,yes,,no,,,positive,high,,
+507,censored,80-100,no,yes,no,,no,negative,no,done,no,no,stage 2,yes,,G3,positive,,N0,T2
+470,metastatic,70-80,yes,yes,no,,no,low,no,done,no,no,,yes,G2,G3,positive,,,
+1052,censored,50-60,no,no,no,,no,positive,no,done,no,no,stage 1,no,,G2,positive,,N0,T1
+2002,censored,50-60,no,no,no,positive,no,low,no,no,done,no,,no,,G3,positive,high,,
+217,recurrence,40-50,yes,yes,no,positive,no,low,no,done,no,no,,yes,,,positive,high,,
+64,censored,70-80,no,no,no,,no,,no,done,done,no,,no,,G3,positive,,N0,T1
+1063,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+301,censored,60-70,yes,yes,no,positive,no,negative,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+2045,censored,40-50,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,N3,T2
+127,recurrence,50-60,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,no,G2,G3,negative,high,N0,T1
+2573,censored,40-50,no,no,no,positive,no,positive,no,done,done,no,,no,,,positive,high,,
+1763,censored,40-50,yes,yes,no,,no,positive,no,done,no,no,stage 1,yes,,G3,positive,,N0,T1
+3079,censored,50-60,yes,yes,no,,no,,no,done,done,no,,no,,,positive,,,
+1371,censored,40-50,yes,no,no,positive,no,positive,no,no,done,no,,no,,,positive,high,N1,T1
+1572,recurrence,60-70,yes,no,no,,no,,no,no,done,yes,,yes,,G3,negative,,N1,T2
+2066,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,G4,,negative,high,,
+1257,censored,70-80,yes,yes,no,,no,low,no,done,no,yes,stage 2,yes,G3,G3,positive,,N1,T2
+2055,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,,negative,high,,
+2430,censored,40-50,yes,no,no,,yes,,no,done,no,no,,no,,,negative,,N0,T2
+177,recurrence,60-70,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,interm.,,
+2310,censored,50-60,no,yes,no,,no,,no,done,no,yes,,yes,G4,,positive,,,T0
+2258,censored,60-70,no,no,no,positive,no,low,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+121,censored,70-80,no,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+2410,censored,60-70,no,yes,no,positive,no,negative,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+838,censored,60-70,no,yes,no,positive,no,low,no,no,done,yes,,yes,,,positive,interm.,,
+2299,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,,negative,high,,
+63,censored,50-60,no,no,no,positive,no,positive,no,done,no,no,,no,,,positive,high,,
+107,recurrence,50-60,yes,no,no,negative,no,negative,no,no,done,no,,no,,G3,negative,high,,
+3555,recurrence,50-60,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+2578,censored,40-50,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,,G3,positive,high,N0,T2
+614,censored,20-40,yes,yes,no,positive,no,negative,no,done,no,yes,stage 2,no,,G3,positive,high,N1,T2
+2076,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,high,N0,T1
+2733,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,interm.,N1,T1
+39,censored,50-60,no,no,no,,no,negative,no,done,done,no,,no,,G3,negative,,N0,T1
+457,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+1087,censored,70-80,no,no,no,,no,,no,done,done,no,stage 1,no,,G3,positive,,N0,T1
+246,censored,60-70,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+650,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G2,negative,high,N0,T1
+904,censored,20-40,yes,yes,no,positive,no,positive,no,done,no,yes,,yes,,,positive,high,,
+1257,censored,20-40,yes,yes,no,positive,no,positive,no,no,done,no,,yes,,,positive,high,,
+2288,censored,80-100,yes,yes,no,,no,,no,no,done,yes,,yes,,,positive,,,
+201,recurrence,80-100,no,no,no,positive,no,positive,no,done,no,no,,no,,G2,positive,high,,
+3567,censored,70-80,yes,yes,no,negative,no,negative,no,no,done,no,,no,,,positive,high,,
+1601,death,60-70,no,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+1941,censored,50-60,yes,yes,no,,no,negative,no,done,no,yes,stage 2,yes,G4,G3,positive,high,N1,T2
+2742,censored,50-60,yes,yes,yes,positive,no,positive,no,done,no,no,,yes,,G2,positive,high,,
+3752,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,no,,yes,,,negative,high,N0,T3
+480,censored,50-60,yes,yes,no,,no,negative,no,done,no,no,stage 2,yes,,G3,positive,,N0,T2
+1994,censored,80-100,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+278,censored,60-70,no,yes,yes,negative,no,negative,no,done,no,no,,yes,,G2,positive,high,,
+138,recurrence,60-70,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,N0,T1
+1052,metastatic,50-60,yes,no,no,negative,no,negative,no,no,done,yes,stage 3,no,,G3,positive,high,N1,T3
+135,recurrence,20-40,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N0,T1
+2609,censored,60-70,no,yes,no,negative,no,negative,no,no,done,yes,,yes,,G3,positive,high,N0,T1
+4538,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,,positive,high,,
+423,censored,20-40,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+131,censored,60-70,no,no,no,positive,no,positive,no,no,done,yes,stage 2,no,,G2,positive,high,N0,T1
+442,recurrence,50-60,yes,yes,no,,no,positive,no,no,done,no,stage 3,yes,G2,G3,positive,,N2,T1
+1968,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,stage 1,no,,G3,positive,interm.,N0,T1
+2821,censored,80-100,yes,yes,no,negative,no,negative,no,no,done,no,,no,,,positive,low,,
+4495,censored,50-60,yes,no,no,,yes,,no,no,done,yes,,no,,,negative,,,
+1733,death,50-60,yes,yes,no,low,no,positive,no,no,done,yes,,yes,,,positive,high,,
+292,recurrence,80-100,yes,yes,no,positive,no,negative,no,no,done,no,,yes,,,positive,low,,
+2983,censored,50-60,yes,no,no,negative,no,negative,no,done,done,no,,yes,,,negative,high,,
+1435,censored,40-50,no,no,no,,no,positive,no,done,no,no,,no,,G2,positive,,N1,T1
+356,censored,40-50,yes,no,no,negative,yes,negative,no,no,done,yes,,no,,G2,negative,high,,
+162,recurrence,70-80,yes,no,no,,no,,no,done,no,no,,yes,,,negative,,,
+4515,censored,60-70,yes,yes,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+2646,censored,50-60,yes,yes,no,,no,negative,no,no,done,no,,yes,,,positive,high,N0,T0
+4638,censored,70-80,no,no,no,negative,no,negative,no,done,no,yes,stage 2,no,,G2,negative,high,N0,T2
+2530,censored,70-80,yes,no,no,positive,no,negative,no,no,done,yes,,yes,,G1,negative,interm.,,
+570,metastatic,50-60,yes,yes,no,positive,no,positive,no,done,done,yes,,no,,,positive,high,,
+2151,censored,70-80,no,yes,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G3,positive,interm.,N0,T1
+2186,censored,60-70,yes,no,no,negative,yes,negative,no,done,no,no,,no,,G3,negative,high,,
+503,censored,50-60,yes,yes,no,,yes,negative,no,no,done,yes,,yes,,,positive,high,,
+169,recurrence,40-50,yes,no,no,positive,no,negative,no,done,no,no,,no,,,positive,high,,
+191,death,60-70,yes,no,no,negative,no,negative,no,no,done,no,,no,G4,,negative,high,,
+2170,censored,40-50,yes,yes,no,,no,low,no,done,done,no,,yes,,G3,positive,,N3,T3
+767,censored,40-50,no,no,yes,,no,negative,no,no,done,yes,stage 1,no,,G2,negative,high,N0,T1
+377,censored,70-80,yes,no,no,,no,positive,no,no,done,yes,stage 1,yes,,G2,negative,,N0,T1
+250,metastatic,70-80,yes,no,no,positive,yes,positive,no,done,done,yes,stage 3,yes,,G3,positive,high,N2,T2
+1941,censored,20-40,yes,no,no,positive,no,negative,no,no,done,no,,no,,,positive,high,,
+2418,censored,60-70,no,yes,no,positive,no,negative,no,done,no,yes,stage 1,yes,,G3,positive,high,N0,T1
+41,censored,60-70,no,no,no,negative,no,negative,no,no,done,no,,no,,G2,positive,high,,
+2863,censored,50-60,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+3190,censored,60-70,yes,no,no,,no,,no,no,done,yes,,no,,,negative,,,
+1487,censored,70-80,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,,
+3089,censored,60-70,no,yes,yes,negative,no,negative,no,done,no,yes,stage 1,yes,,G3,positive,high,N0,T1
+283,recurrence,20-40,yes,no,no,negative,no,negative,no,done,no,yes,stage 2,yes,,G3,negative,high,N0,T2
+3300,censored,40-50,no,no,yes,positive,no,positive,no,no,done,no,stage 2,no,,G2,positive,high,N1,T1
+2099,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1953,censored,40-50,no,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,N1,T1
+61,censored,50-60,no,no,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,,
+2284,censored,20-40,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,G4,G3,positive,high,N0,T2
+187,recurrence,80-100,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,G3,positive,high,,
+1554,censored,50-60,yes,yes,yes,,no,positive,no,done,no,no,stage 3,yes,,G3,positive,,N2,T1
+2760,censored,70-80,no,yes,yes,,no,,no,done,no,yes,,no,,,positive,,,
+1007,death,60-70,yes,no,no,,yes,,no,no,done,no,,no,,,negative,,,
+2178,censored,20-40,yes,yes,no,positive,no,negative,no,no,done,no,,yes,,,positive,interm.,N0,
+299,censored,80-100,no,yes,no,negative,no,negative,no,no,done,yes,stage 1,no,,G3,positive,high,N0,T1
+3102,censored,50-60,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,high,N0,
+139,censored,60-70,yes,no,no,,no,,no,no,done,yes,,no,,,positive,,,T0
+1972,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,stage 2,no,G2,G3,negative,high,N0,T2
+212,death,50-60,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,,,
+2451,censored,40-50,yes,no,no,,no,,no,no,done,yes,,no,,G3,negative,,N0,T1
+1862,censored,60-70,yes,no,no,,no,negative,no,done,no,yes,stage 2,no,,G3,negative,high,N0,T2
+1462,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+2259,censored,40-50,yes,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+2287,censored,40-50,yes,no,no,negative,yes,negative,no,done,done,no,,yes,,,negative,high,N1,T0
+1878,censored,50-60,no,no,no,positive,no,low,no,no,done,no,,no,,,positive,high,,
+809,metastatic,50-60,no,no,no,positive,no,negative,no,done,no,no,,no,,,positive,high,,
+262,metastatic,80-100,yes,no,no,negative,no,negative,no,no,done,no,stage 1,no,G4,G3,positive,high,N0,T1
+1513,censored,50-60,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,G1,G3,positive,high,N0,T2
+2063,censored,60-70,no,no,no,positive,no,positive,no,no,done,yes,,no,,G3,positive,interm.,N0,T1
+347,censored,20-40,no,no,no,negative,no,negative,no,no,done,no,stage 2,no,,G3,positive,high,N1,T2
+2071,recurrence,60-70,yes,no,no,,no,negative,no,no,done,yes,,no,,G3,negative,,,
+5443,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,no,,yes,,G3,positive,high,,
+47,censored,60-70,no,no,no,negative,no,negative,no,no,done,no,,no,,,positive,high,,
+130,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+949,death,60-70,no,yes,no,,no,positive,no,done,done,no,,yes,,G2,positive,high,N0,T1
+2574,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,interm.,,
+227,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+3904,censored,60-70,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,no,,G2,positive,interm.,N1,T2
+2756,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,low,,
+2577,censored,40-50,no,no,no,negative,no,negative,yes,no,done,yes,stage 1,yes,G2,G2,negative,high,N0,T1
+2819,censored,40-50,yes,no,yes,,no,negative,no,done,no,no,stage 2,yes,,G3,negative,,N0,T2
+1615,censored,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+1221,death,80-100,yes,no,no,positive,no,negative,no,no,done,no,,yes,,,negative,high,N0,TIS
+3794,censored,70-80,yes,no,no,,no,,no,no,done,no,,yes,G4,,negative,,,
+2185,censored,40-50,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T1
+1494,censored,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,high,N0,T1
+341,recurrence,60-70,yes,no,no,,no,negative,no,no,done,no,,no,,G3,positive,,,
+547,censored,40-50,yes,yes,no,negative,no,negative,no,done,done,yes,stage 2,yes,,G3,negative,high,N1,T2
+486,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G3,negative,high,N0,T1
+191,metastatic,40-50,yes,no,no,negative,yes,negative,no,done,done,no,,no,,G3,negative,high,N0,T1
+717,censored,40-50,no,no,no,,no,low,no,no,done,yes,stage 1,no,,G3,negative,,N0,T1
+2536,censored,60-70,yes,yes,no,positive,no,positive,no,done,done,no,,yes,,,positive,interm.,,
+408,censored,40-50,yes,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,G4,G3,positive,low,N0,T2
+265,recurrence,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1343,death,50-60,yes,no,no,negative,yes,negative,no,no,done,yes,,yes,,,negative,high,,
+2169,censored,40-50,yes,yes,no,negative,no,negative,no,done,done,yes,,no,,G3,positive,high,N0,T2
+384,metastatic,50-60,yes,no,no,positive,no,low,no,no,done,no,stage 1,no,,G3,positive,high,N0,T1
+2057,censored,20-40,yes,no,no,,no,,no,done,no,no,,yes,,,negative,,,
+174,recurrence,80-100,yes,no,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,T3
+1667,recurrence,80-100,yes,yes,no,positive,no,low,no,no,done,no,,no,,,positive,high,,
+95,recurrence,50-60,yes,no,no,positive,yes,negative,no,no,done,no,,no,,,positive,high,,
+2307,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,no,,no,,G3,negative,high,,
+66,censored,60-70,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,positive,,N0,T1
+671,censored,60-70,no,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+1490,censored,60-70,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G3,positive,low,N0,T1
+722,death,40-50,yes,no,no,negative,yes,negative,no,done,no,no,stage 2,no,,G3,negative,high,N0,T2
+2616,censored,20-40,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,interm.,N1,T0
+3790,censored,50-60,no,no,no,negative,no,negative,no,done,no,no,stage 1,no,,G3,negative,high,N0,T1
+1853,censored,60-70,no,no,no,,no,negative,no,no,done,yes,stage 3,no,,G3,negative,high,N2,T2
+143,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+1510,recurrence,50-60,yes,yes,no,,no,positive,no,no,done,no,stage 1,yes,G2,G3,positive,,N0,T1
+4895,censored,40-50,yes,no,no,,no,negative,no,no,done,no,,yes,,,negative,high,,
+1302,censored,50-60,yes,yes,no,positive,no,low,no,no,done,no,,yes,,G3,positive,high,N0,TIS
+1117,censored,50-60,yes,no,no,positive,no,positive,no,done,no,no,,no,,,positive,high,,
+2319,censored,60-70,no,yes,no,positive,no,negative,no,no,done,yes,,yes,G3,G2,positive,interm.,N0,T2
+1967,censored,40-50,no,no,no,positive,no,negative,no,done,no,no,,no,,G2,positive,high,,
+1960,censored,50-60,yes,yes,no,positive,no,low,no,done,no,no,,yes,,G3,positive,high,N0,T2
+2622,censored,50-60,yes,yes,no,,no,,no,no,done,yes,,yes,,,positive,,,
+2293,censored,70-80,yes,yes,no,positive,no,positive,no,done,no,no,stage 3,yes,,G3,positive,high,N3,T2
+3500,censored,50-60,no,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,
+1005,censored,60-70,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,,
+395,recurrence,70-80,yes,no,no,,no,negative,no,no,done,no,,no,,G3,negative,,,
+190,recurrence,60-70,yes,no,no,negative,no,negative,no,done,no,no,,no,,G3,negative,high,N1,T2
+561,recurrence,80-100,no,no,no,positive,no,low,no,done,no,yes,stage 2,no,,G3,positive,high,N1,T2
+1987,censored,60-70,yes,yes,yes,negative,no,negative,no,done,no,no,,yes,,,positive,high,,
+2845,censored,40-50,yes,no,no,,no,positive,no,no,done,yes,,yes,,G3,negative,,,
+1585,death,20-40,no,no,no,positive,no,low,no,no,done,yes,stage 2,no,,G3,positive,interm.,N2,T2
+723,censored,50-60,no,no,no,positive,no,low,no,no,done,no,stage 2,no,,G3,positive,low,N1,T2
+1926,censored,40-50,no,no,no,,no,positive,no,done,no,no,,no,,G3,positive,,N0,T1
+3242,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,interm.,,
+1126,metastatic,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,stage 2,yes,,G3,positive,high,N0,T2
+1967,censored,50-60,yes,no,no,,no,,no,done,no,no,,no,,,negative,,N3,
+2427,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 1,no,,G3,positive,interm.,N0,T1
+1123,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+1951,censored,60-70,yes,no,no,positive,no,positive,no,no,done,yes,,yes,,G2,negative,low,N0,T0
+1827,censored,50-60,yes,no,no,,yes,,no,no,done,yes,,yes,,,negative,,N0,T1
+197,recurrence,70-80,yes,no,no,negative,yes,negative,no,no,done,no,,no,,G3,positive,high,N0,T1
+564,death,70-80,yes,no,no,,yes,positive,no,done,no,no,stage 2,no,,G3,negative,,N1,T2
+2219,censored,70-80,yes,no,no,negative,yes,negative,no,no,done,no,stage 2,no,,G3,negative,high,N0,T2
+507,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N1,T1
+2450,censored,40-50,yes,no,no,,no,,no,done,no,no,,yes,,G3,negative,,,T2
+2395,censored,20-40,yes,yes,no,positive,no,low,no,no,done,yes,,yes,,,positive,high,,
+3588,censored,20-40,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,N1,T1
+1797,death,50-60,yes,yes,no,,no,negative,no,done,no,yes,stage 1,yes,,G3,positive,,N0,T1
+648,censored,50-60,yes,yes,no,positive,no,positive,no,done,no,yes,stage 2,yes,,G3,positive,high,N0,T1
+78,censored,60-70,no,no,no,positive,no,positive,no,done,no,no,stage 1,no,,G3,positive,high,N0,T1
+3219,censored,40-50,yes,no,no,negative,yes,negative,no,no,done,no,stage 2,no,,G2,negative,high,N1,T1
+953,death,60-70,yes,yes,no,positive,no,low,no,no,done,no,,no,,G3,positive,high,,
+2001,censored,50-60,yes,no,no,negative,yes,negative,no,done,no,yes,stage 1,yes,,G3,negative,high,N0,T1
+1905,censored,60-70,no,no,no,negative,no,negative,no,done,no,yes,stage 1,no,,G3,negative,high,N1,T1
+714,recurrence,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+400,metastatic,60-70,no,yes,yes,,no,,no,no,done,no,,yes,,,positive,,,
+2474,death,60-70,no,yes,no,,no,negative,no,done,no,yes,stage 1,yes,,G3,positive,,N0,T1
+2211,censored,50-60,yes,no,no,,no,,no,done,done,yes,,yes,,G3,negative,,,
+56,censored,80-100,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G1,positive,interm.,N0,T2
+2018,censored,70-80,no,no,no,negative,no,negative,no,no,done,no,stage 1,no,,G3,positive,high,,T1
+3076,censored,40-50,yes,yes,no,positive,yes,negative,no,done,no,no,stage 2,yes,,G2,positive,interm.,N1,T2
+2896,censored,50-60,yes,yes,no,negative,no,negative,no,no,done,no,,yes,G2,G3,negative,high,,
+2381,censored,60-70,no,yes,no,,no,positive,no,done,no,no,stage 3,yes,,G2,positive,,N2,T2
+3668,censored,40-50,yes,no,no,,no,,no,done,no,no,,no,,,negative,,,T1
+2907,censored,20-40,yes,no,no,negative,yes,negative,no,no,done,no,stage 1,no,,G3,negative,high,,T1
+648,metastatic,40-50,yes,no,no,,no,,no,no,done,no,,yes,,,negative,,N1,T0
+477,metastatic,70-80,no,yes,no,negative,no,negative,no,done,no,no,stage 1,yes,,G3,positive,high,N1,T1
+122,recurrence,60-70,yes,no,no,negative,no,negative,no,no,done,no,,no,,G2,negative,high,,
+3557,censored,50-60,yes,no,no,,no,,no,no,done,no,,no,,,negative,,,
+187,recurrence,40-50,yes,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+767,censored,50-60,yes,no,no,positive,yes,positive,no,no,done,yes,stage 3,no,,G3,positive,interm.,N3,T2
+250,recurrence,70-80,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,N1,T1
+238,recurrence,20-40,yes,no,no,,no,,no,no,done,yes,,yes,,,negative,,,
+33,censored,70-80,no,no,no,positive,no,low,no,done,no,no,,no,,,positive,high,N0,T1
+2140,censored,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,N1,T1
+1992,censored,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,high,,
+3495,censored,60-70,yes,no,no,,no,negative,no,done,no,no,,yes,,,negative,low,,
+1981,censored,40-50,yes,yes,no,,no,positive,no,no,done,no,stage 1,yes,,G2,positive,,N0,T1
+102,censored,60-70,yes,no,no,negative,yes,negative,no,no,done,no,,no,,,negative,high,,
+106,recurrence,50-60,yes,no,no,positive,no,positive,no,no,done,no,stage 2,no,,G2,positive,high,N1,T2
+590,censored,80-100,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,G3,positive,high,,
+899,death,50-60,yes,no,no,negative,yes,negative,no,done,done,no,,no,,G3,negative,high,N0,TIS
+3196,censored,40-50,no,yes,no,,no,,no,no,done,yes,stage 1,yes,,G3,positive,high,N0,T1
+4099,censored,60-70,yes,yes,yes,positive,no,positive,no,no,done,yes,,yes,,G3,positive,high,,
+151,death,50-60,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+2205,censored,70-80,yes,yes,no,positive,no,low,no,no,done,no,stage 1,yes,G2,,positive,high,N1,T1
+4338,death,40-50,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,N0,T1
+176,censored,40-50,no,yes,no,positive,no,positive,no,done,no,yes,,yes,,G2,positive,high,N1,T2
+3333,censored,80-100,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,G3,positive,high,N1,T1
+173,recurrence,70-80,no,yes,no,positive,no,negative,no,done,no,no,,yes,,G3,positive,high,,
+2173,metastatic,60-70,yes,yes,no,positive,no,positive,no,done,no,no,,yes,,G2,positive,low,N0,T2
+607,censored,70-80,yes,yes,no,positive,no,negative,no,no,done,yes,stage 1,yes,,G3,positive,high,N1,T1
+173,metastatic,50-60,no,no,no,,no,,no,no,done,no,,no,,,negative,,,
+424,recurrence,50-60,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,N1,T0
+2590,censored,70-80,yes,yes,no,positive,yes,positive,no,no,done,yes,,no,,,positive,high,N0,T0
+1962,censored,50-60,yes,no,no,positive,yes,positive,no,done,done,no,,no,,G3,negative,high,N0,T1
+730,censored,60-70,yes,yes,no,positive,no,negative,no,no,done,no,,yes,,,positive,high,,
+407,metastatic,40-50,yes,no,no,positive,no,positive,no,no,done,yes,,yes,,G2,positive,low,,
+3874,censored,50-60,yes,no,no,,no,,no,no,done,yes,,yes,,,negative,,,
+1501,metastatic,60-70,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,,positive,low,N3,T3
+4128,censored,60-70,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,G3,positive,interm.,N0,T2
+2110,censored,40-50,yes,no,no,,no,,no,no,done,yes,,yes,,,negative,,,
+111,recurrence,20-40,yes,no,no,negative,no,negative,no,no,done,no,,no,,G2,negative,high,,
+123,recurrence,40-50,yes,no,no,,yes,,no,no,done,no,,no,,,negative,high,,
+4969,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G3,negative,high,N0,T1
+472,censored,80-100,no,yes,no,positive,no,positive,no,done,no,no,stage 2,yes,G2,G3,positive,high,N0,T2
+365,censored,40-50,yes,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,N0,T2
+109,recurrence,20-40,yes,no,no,positive,no,negative,no,no,done,no,,no,,G3,positive,high,,
+631,metastatic,50-60,yes,no,no,negative,no,negative,no,no,done,no,,yes,,G3,negative,high,,
+669,metastatic,20-40,no,no,yes,,yes,,no,done,no,yes,,no,,,negative,,,
+2808,censored,60-70,yes,yes,no,,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,,N0,T1
+370,censored,40-50,yes,no,no,negative,yes,negative,no,done,no,yes,,no,,,negative,high,,
+1162,censored,60-70,no,yes,no,positive,no,negative,no,done,no,yes,,yes,,G3,positive,high,N3,T2
+2895,censored,60-70,yes,yes,no,,no,negative,no,no,done,yes,stage 1,yes,,G3,positive,,N0,T1
+107,censored,80-100,no,no,no,,no,,no,no,done,no,stage 3,no,,G3,positive,,N3,T1
+1800,censored,40-50,yes,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,high,,
+4362,censored,70-80,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,G3,positive,high,,
+3524,censored,20-40,no,no,yes,low,no,low,no,done,no,no,,no,,G3,positive,low,N0,T3
+2652,censored,40-50,yes,no,no,,yes,,no,done,done,no,stage 2,no,,G3,positive,,N1,T2
+2303,censored,70-80,yes,yes,no,negative,no,negative,no,done,no,yes,,yes,,,positive,high,,
+3630,censored,60-70,yes,yes,no,positive,yes,positive,no,no,done,yes,stage 1,no,,G2,positive,high,N0,T1
+2627,censored,70-80,no,yes,no,positive,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,high,N0,T1
+382,metastatic,50-60,yes,no,no,,no,negative,no,done,no,no,stage 2,yes,,G3,negative,high,N0,T2
+1090,censored,60-70,yes,yes,no,positive,no,negative,no,no,done,yes,,yes,G2,,positive,high,,
+358,metastatic,70-80,yes,yes,no,,no,,no,done,no,no,,yes,,,positive,high,,
+48,censored,60-70,no,no,no,negative,no,negative,no,done,no,no,,no,,,negative,high,,
+870,death,80-100,no,yes,yes,positive,no,low,no,no,done,no,,yes,,G2,positive,high,N0,T1
+2442,censored,50-60,yes,no,no,negative,no,negative,no,done,no,yes,,yes,G2,,negative,high,N0,T0
+144,recurrence,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,no,,,negative,high,,
+3845,censored,40-50,yes,no,no,negative,no,negative,no,no,done,no,stage 3,yes,,G3,negative,high,N0,T2
+163,recurrence,70-80,yes,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+155,recurrence,40-50,yes,no,no,positive,no,positive,no,no,done,no,,no,,,positive,high,,
+1875,censored,40-50,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,negative,high,N0,T1
+129,recurrence,40-50,yes,no,no,positive,no,low,no,no,done,yes,,no,,,positive,high,,
+4070,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,,positive,interm.,,
+384,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,stage 1,yes,,G3,negative,high,N0,T1
+1453,death,60-70,yes,yes,no,positive,no,negative,no,no,done,no,,yes,,G3,positive,high,,
+392,recurrence,80-100,yes,yes,no,,no,,no,no,done,no,,yes,,,positive,,,
+2530,censored,80-100,yes,yes,no,positive,no,negative,no,done,no,no,,yes,,G3,positive,high,N2,T1
+40,censored,40-50,no,no,no,,no,positive,no,no,done,yes,stage 1,no,,G2,positive,,N0,T1
+4019,censored,70-80,no,yes,no,positive,no,positive,no,done,no,no,stage 1,yes,,G1,positive,interm.,N0,T1
+56,metastatic,40-50,no,no,no,negative,no,negative,no,done,no,no,,no,,G2,negative,high,N2,T2
+1049,censored,70-80,yes,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N1,T1
+2687,metastatic,60-70,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,interm.,,
+115,recurrence,70-80,yes,no,no,low,no,negative,no,no,done,yes,,no,,,positive,high,,
+2114,censored,80-100,yes,yes,no,negative,no,negative,no,no,done,yes,,no,,,positive,high,N1,T1
+3114,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,no,,,positive,interm.,,
+1973,censored,50-60,yes,no,no,negative,no,negative,no,done,no,no,,yes,,,negative,high,,
+173,recurrence,20-40,yes,no,no,,no,positive,no,done,no,no,stage 2,no,,G3,negative,,N1,T2
+1740,censored,40-50,no,yes,no,positive,no,low,no,no,done,yes,stage 1,yes,,G3,positive,high,N0,T1
+53,censored,60-70,no,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+5201,censored,70-80,yes,yes,yes,positive,no,positive,no,no,done,yes,,yes,,,positive,interm.,,T1
+91,censored,60-70,no,no,no,positive,no,positive,no,no,done,no,stage 1,no,,G3,positive,interm.,N0,T1
+3703,censored,70-80,yes,no,no,,no,positive,no,done,no,no,,yes,,G3,positive,interm.,N1,T1
+2291,censored,20-40,yes,yes,yes,,no,,no,no,done,no,stage 2,no,,G3,positive,,N0,T1
+1821,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,stage 2,no,,G2,positive,interm.,N1,T1
+2444,death,70-80,no,yes,no,negative,no,negative,no,no,done,yes,,yes,,,positive,high,N0,T1
+135,death,50-60,no,no,no,negative,no,negative,no,done,no,yes,stage 2,no,,G3,negative,high,N2,T3
+2979,censored,50-60,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G3,positive,high,N0,T1
+2265,censored,60-70,yes,yes,no,,no,negative,no,done,done,no,stage 3,yes,,G3,positive,high,N2,T2
+69,censored,60-70,no,no,no,negative,no,negative,no,no,done,no,stage 1,no,,G3,negative,high,N0,T1
+2115,censored,50-60,yes,no,no,,no,negative,no,done,no,no,,yes,,G3,negative,,N3,T2
+1652,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,G3,negative,high,,
+4083,censored,60-70,no,yes,no,,no,positive,no,no,done,yes,stage 1,yes,,G2,positive,,N0,T1
+2677,censored,50-60,yes,yes,no,,no,low,no,no,done,no,stage 2,yes,,G3,positive,,N1,T2
+436,metastatic,40-50,yes,no,no,,no,,no,no,done,yes,,yes,,,negative,,N0,T0
+2049,censored,70-80,no,no,no,,no,negative,no,done,no,yes,stage 2,no,,G3,positive,,N0,T2
+138,censored,50-60,no,no,no,,yes,,no,no,done,no,stage 1,no,,G3,negative,,,T1
+283,recurrence,70-80,yes,yes,no,positive,no,positive,no,no,done,no,,no,,,positive,interm.,,
+418,death,70-80,yes,no,no,,yes,,no,no,done,no,,no,,,negative,,,
+2965,censored,60-70,no,no,no,,no,negative,no,no,done,yes,stage 1,no,,G3,positive,,N1,T1
+1573,censored,60-70,yes,no,no,,no,positive,no,no,done,no,,no,,,positive,interm.,,
+1718,death,50-60,yes,yes,no,,no,,no,no,done,yes,,yes,,,negative,,,
+3851,censored,40-50,yes,no,no,,no,,no,done,no,no,stage 2,no,,G3,positive,high,N1,T2
+141,recurrence,60-70,yes,no,no,positive,no,low,no,no,done,no,,no,,G3,positive,,,
+2624,censored,70-80,yes,yes,no,,no,negative,no,no,done,yes,,yes,,,positive,,,
+2707,censored,60-70,yes,yes,no,positive,no,negative,no,done,no,no,stage 2,yes,,G2,positive,high,N0,T2
+64,censored,70-80,yes,no,no,positive,no,positive,no,done,done,no,,no,,,positive,high,,
+1323,censored,80-100,yes,no,no,negative,no,negative,no,no,done,yes,stage 1,yes,,G2,negative,high,N0,TIS
+1974,censored,60-70,no,no,no,low,no,negative,no,done,no,no,stage 3,no,,G3,positive,high,N3,T3
+844,recurrence,50-60,no,no,no,positive,no,positive,no,done,no,no,stage 2,no,,G3,positive,high,N0,T2
+2904,censored,70-80,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+488,metastatic,70-80,no,no,no,,no,negative,no,no,done,yes,,no,,G3,negative,high,N0,T2
+530,censored,50-60,yes,yes,no,positive,no,positive,no,no,done,yes,,yes,,G1,positive,low,N0,T1
+2104,censored,40-50,yes,no,no,,yes,,no,no,done,yes,,no,,,negative,,,
+87,censored,70-80,no,no,no,negative,no,negative,no,done,no,yes,stage 1,no,,G3,positive,high,N0,T1
+500,death,70-80,yes,no,yes,,yes,,no,no,done,yes,,yes,,,negative,,,
+1890,censored,50-60,no,no,no,positive,no,positive,no,done,no,no,,no,,,positive,high,N1,T2
+3564,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,yes,,,negative,high,,
+352,recurrence,40-50,no,no,no,negative,no,negative,no,no,done,no,,yes,,,negative,high,,
+3837,censored,50-60,yes,yes,no,positive,no,positive,no,done,done,yes,stage 1,no,G4,G2,positive,low,N0,T1
+2067,censored,50-60,yes,no,no,,no,,no,no,done,no,stage 1,yes,,G3,negative,,N1,T1
+2898,censored,50-60,no,yes,no,positive,no,positive,no,done,done,yes,,yes,,,positive,high,N0,T2
+348,recurrence,70-80,no,no,no,negative,no,negative,no,no,done,no,,no,,,negative,high,,
+65,censored,50-60,no,no,no,positive,no,positive,no,no,done,yes,stage 1,no,,G3,positive,high,,T1
+3233,censored,70-80,no,no,no,positive,no,low,no,no,done,no,,no,,,positive,high,,
+2012,censored,60-70,yes,no,no,negative,no,negative,no,no,done,yes,,no,,G3,negative,high,,
+162,recurrence,60-70,yes,no,no,,no,positive,no,no,done,no,,no,,G3,negative,,N0,T1
+3740,death,60-70,yes,yes,no,,no,positive,no,done,done,yes,stage 1,yes,,G2,positive,,N0,T1
+1983,censored,50-60,no,no,no,,no,negative,no,done,no,yes,stage 1,no,,G3,negative,high,N0,T1
+1860,censored,60-70,no,no,no,negative,no,negative,no,done,no,yes,,no,,,positive,high,,
+1611,censored,60-70,yes,no,no,negative,no,negative,no,done,no,yes,,yes,,,negative,high,N0,T1
+250,recurrence,80-100,yes,no,no,positive,no,positive,no,no,done,no,,no,,G2,positive,low,N0,T1
